@@ -1,0 +1,10 @@
+﻿  Telephone-Directory.cpp
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(92,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(209,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(212,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(258,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(261,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(303,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(306,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(413,5): warning C4102: 'jkl': unreferenced label
+  Telephone-Directory.vcxproj -> C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\x64\Debug\Telephone-Directory.exe
