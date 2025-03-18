@@ -1,10 +1,18 @@
 ﻿  Telephone-Directory.cpp
-C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(92,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(209,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(212,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(258,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(261,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(303,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(306,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(413,5): warning C4102: 'jkl': unreferenced label
-  Telephone-Directory.vcxproj -> C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\x64\Debug\Telephone-Directory.exe
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(94,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(211,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(214,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(260,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(263,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(305,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(308,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(415,5): warning C4102: 'jkl': unreferenced label
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(96): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(213): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(216): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(282): warning C6031: Return value ignored: 'rename'.
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(262): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(265): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(326): warning C6031: Return value ignored: 'rename'.
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(307): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\Telephone-Directory.cpp(310): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).

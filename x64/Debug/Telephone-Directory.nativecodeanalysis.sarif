@@ -16,9 +16,9 @@
                   "uri": "file:///C:/Users/User/Desktop/проекти/ОП/Telephone-Directory/Telephone-Directory.cpp"
                 },
                 "region": {
-                  "startLine": 94,
+                  "startLine": 96,
                   "startColumn": 23,
-                  "endLine": 94,
+                  "endLine": 96,
                   "endColumn": 33
                 }
               },
@@ -44,9 +44,9 @@
                   "uri": "file:///C:/Users/User/Desktop/проекти/ОП/Telephone-Directory/Telephone-Directory.cpp"
                 },
                 "region": {
-                  "startLine": 211,
+                  "startLine": 213,
                   "startColumn": 25,
-                  "endLine": 211,
+                  "endLine": 213,
                   "endColumn": 35
                 }
               },
@@ -72,9 +72,9 @@
                   "uri": "file:///C:/Users/User/Desktop/проекти/ОП/Telephone-Directory/Telephone-Directory.cpp"
                 },
                 "region": {
-                  "startLine": 214,
+                  "startLine": 216,
                   "startColumn": 25,
-                  "endLine": 214,
+                  "endLine": 216,
                   "endColumn": 35
                 }
               },
@@ -100,9 +100,9 @@
                   "uri": "file:///C:/Users/User/Desktop/проекти/ОП/Telephone-Directory/Telephone-Directory.cpp"
                 },
                 "region": {
-                  "startLine": 280,
+                  "startLine": 282,
                   "startColumn": 3,
-                  "endLine": 280,
+                  "endLine": 282,
                   "endColumn": 22
                 }
               },
@@ -128,9 +128,9 @@
                   "uri": "file:///C:/Users/User/Desktop/проекти/ОП/Telephone-Directory/Telephone-Directory.cpp"
                 },
                 "region": {
-                  "startLine": 260,
+                  "startLine": 262,
                   "startColumn": 23,
-                  "endLine": 260,
+                  "endLine": 262,
                   "endColumn": 33
                 }
               },
@@ -156,9 +156,9 @@
                   "uri": "file:///C:/Users/User/Desktop/проекти/ОП/Telephone-Directory/Telephone-Directory.cpp"
                 },
                 "region": {
-                  "startLine": 263,
+                  "startLine": 265,
                   "startColumn": 23,
-                  "endLine": 263,
+                  "endLine": 265,
                   "endColumn": 33
                 }
               },
@@ -184,9 +184,9 @@
                   "uri": "file:///C:/Users/User/Desktop/проекти/ОП/Telephone-Directory/Telephone-Directory.cpp"
                 },
                 "region": {
-                  "startLine": 324,
+                  "startLine": 326,
                   "startColumn": 3,
-                  "endLine": 324,
+                  "endLine": 326,
                   "endColumn": 23
                 }
               },
@@ -212,9 +212,9 @@
                   "uri": "file:///C:/Users/User/Desktop/проекти/ОП/Telephone-Directory/Telephone-Directory.cpp"
                 },
                 "region": {
-                  "startLine": 305,
+                  "startLine": 307,
                   "startColumn": 23,
-                  "endLine": 305,
+                  "endLine": 307,
                   "endColumn": 33
                 }
               },
@@ -240,9 +240,9 @@
                   "uri": "file:///C:/Users/User/Desktop/проекти/ОП/Telephone-Directory/Telephone-Directory.cpp"
                 },
                 "region": {
-                  "startLine": 308,
+                  "startLine": 310,
                   "startColumn": 23,
-                  "endLine": 308,
+                  "endLine": 310,
                   "endColumn": 33
                 }
               },
@@ -280,7 +280,7 @@
             "resultFile"
           ],
           "hashes": {
-            "sha-256": "d26baa85f29e51f27f7ccf70dd4ae66a5d89249a63598c5637d2c9510a139c5c"
+            "sha-256": "cebc95a5e0967c53f35dea46b48b421c561680206a0638c151a41e1759dcf0bb"
           }
         }
       ]

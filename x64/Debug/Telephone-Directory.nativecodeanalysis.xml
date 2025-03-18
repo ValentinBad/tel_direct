@@ -4,126 +4,126 @@
     <SFA>
       <FILEPATH>C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\</FILEPATH>
       <FILENAME>Telephone-Directory.cpp</FILENAME>
-      <LINE>94</LINE>
+      <LINE>96</LINE>
       <COLUMN>30</COLUMN>
     </SFA>
     <DEFECTCODE>26451</DEFECTCODE>
     <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
     <FUNCTION>directory::SignIn</FUNCTION>
     <DECORATED>?SignIn@directory@@QEAAHXZ</DECORATED>
-    <FUNCLINE>71</FUNCLINE>
+    <FUNCLINE>73</FUNCLINE>
     <PATH></PATH>
   </DEFECT>
   <DEFECT>
     <SFA>
       <FILEPATH>C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\</FILEPATH>
       <FILENAME>Telephone-Directory.cpp</FILENAME>
-      <LINE>211</LINE>
+      <LINE>213</LINE>
       <COLUMN>32</COLUMN>
     </SFA>
     <DEFECTCODE>26451</DEFECTCODE>
     <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
     <FUNCTION>directory::SearchAndDisplay</FUNCTION>
     <DECORATED>?SearchAndDisplay@directory@@QEAAXXZ</DECORATED>
-    <FUNCLINE>187</FUNCLINE>
+    <FUNCLINE>189</FUNCLINE>
     <PATH></PATH>
   </DEFECT>
   <DEFECT>
     <SFA>
       <FILEPATH>C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\</FILEPATH>
       <FILENAME>Telephone-Directory.cpp</FILENAME>
-      <LINE>214</LINE>
+      <LINE>216</LINE>
       <COLUMN>32</COLUMN>
     </SFA>
     <DEFECTCODE>26451</DEFECTCODE>
     <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
     <FUNCTION>directory::SearchAndDisplay</FUNCTION>
     <DECORATED>?SearchAndDisplay@directory@@QEAAXXZ</DECORATED>
-    <FUNCLINE>187</FUNCLINE>
+    <FUNCLINE>189</FUNCLINE>
     <PATH></PATH>
   </DEFECT>
   <DEFECT>
     <SFA>
       <FILEPATH>C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\</FILEPATH>
       <FILENAME>Telephone-Directory.cpp</FILENAME>
-      <LINE>280</LINE>
+      <LINE>282</LINE>
       <COLUMN>8</COLUMN>
     </SFA>
     <DEFECTCODE>6031</DEFECTCODE>
     <DESCRIPTION>Return value ignored: 'rename'.</DESCRIPTION>
     <FUNCTION>directory::Delete</FUNCTION>
     <DECORATED>?Delete@directory@@QEAAXXZ</DECORATED>
-    <FUNCLINE>241</FUNCLINE>
+    <FUNCLINE>243</FUNCLINE>
     <PATH></PATH>
   </DEFECT>
   <DEFECT>
     <SFA>
       <FILEPATH>C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\</FILEPATH>
       <FILENAME>Telephone-Directory.cpp</FILENAME>
-      <LINE>260</LINE>
+      <LINE>262</LINE>
       <COLUMN>30</COLUMN>
     </SFA>
     <DEFECTCODE>26451</DEFECTCODE>
     <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
     <FUNCTION>directory::Delete</FUNCTION>
     <DECORATED>?Delete@directory@@QEAAXXZ</DECORATED>
-    <FUNCLINE>241</FUNCLINE>
+    <FUNCLINE>243</FUNCLINE>
     <PATH></PATH>
   </DEFECT>
   <DEFECT>
     <SFA>
       <FILEPATH>C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\</FILEPATH>
       <FILENAME>Telephone-Directory.cpp</FILENAME>
-      <LINE>263</LINE>
+      <LINE>265</LINE>
       <COLUMN>30</COLUMN>
     </SFA>
     <DEFECTCODE>26451</DEFECTCODE>
     <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
     <FUNCTION>directory::Delete</FUNCTION>
     <DECORATED>?Delete@directory@@QEAAXXZ</DECORATED>
-    <FUNCLINE>241</FUNCLINE>
+    <FUNCLINE>243</FUNCLINE>
     <PATH></PATH>
   </DEFECT>
   <DEFECT>
     <SFA>
       <FILEPATH>C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\</FILEPATH>
       <FILENAME>Telephone-Directory.cpp</FILENAME>
-      <LINE>324</LINE>
+      <LINE>326</LINE>
       <COLUMN>8</COLUMN>
     </SFA>
     <DEFECTCODE>6031</DEFECTCODE>
     <DESCRIPTION>Return value ignored: 'rename'.</DESCRIPTION>
     <FUNCTION>directory::mod</FUNCTION>
     <DECORATED>?mod@directory@@QEAAXXZ</DECORATED>
-    <FUNCLINE>284</FUNCLINE>
+    <FUNCLINE>286</FUNCLINE>
     <PATH></PATH>
   </DEFECT>
   <DEFECT>
     <SFA>
       <FILEPATH>C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\</FILEPATH>
       <FILENAME>Telephone-Directory.cpp</FILENAME>
-      <LINE>305</LINE>
+      <LINE>307</LINE>
       <COLUMN>30</COLUMN>
     </SFA>
     <DEFECTCODE>26451</DEFECTCODE>
     <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
     <FUNCTION>directory::mod</FUNCTION>
     <DECORATED>?mod@directory@@QEAAXXZ</DECORATED>
-    <FUNCLINE>284</FUNCLINE>
+    <FUNCLINE>286</FUNCLINE>
     <PATH></PATH>
   </DEFECT>
   <DEFECT>
     <SFA>
       <FILEPATH>C:\Users\User\Desktop\проекти\ОП\Telephone-Directory\</FILEPATH>
       <FILENAME>Telephone-Directory.cpp</FILENAME>
-      <LINE>308</LINE>
+      <LINE>310</LINE>
       <COLUMN>30</COLUMN>
     </SFA>
     <DEFECTCODE>26451</DEFECTCODE>
     <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
     <FUNCTION>directory::mod</FUNCTION>
     <DECORATED>?mod@directory@@QEAAXXZ</DECORATED>
-    <FUNCLINE>284</FUNCLINE>
+    <FUNCLINE>286</FUNCLINE>
     <PATH></PATH>
   </DEFECT>
 </DEFECTS>
